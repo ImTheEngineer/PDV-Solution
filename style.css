@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center; /* Centraliza a .login no meio da tela */
+    background-color: blue;
+    height: 100vh; /* Para ocupar toda a altura da tela */
+    margin: 0; /* Remove a margem padrão */
+}
+
+.login {
+    display: block;
+    background: white;
+    height: 400px;
+    width: 200px;
+    text-align: center; /* Alinha os ícones no centro */
+}
+
+.login i {
+    display: block; /* Garante que cada ícone fique em uma linha */
+    margin: 10px 0; /* Espaçamento entre os ícones */
+}

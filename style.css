@@ -16,5 +16,5 @@ body {
 
 .login i {
     display: block; /* Garante que cada ícone fique em uma linha */
-    margin: 10px 0; /* Espaçamento entre os ícones */
+    margin: 10px 0; 
 }
